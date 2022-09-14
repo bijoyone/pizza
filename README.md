@@ -24,14 +24,20 @@ Create Own API (for add new product, update, order and receive payment)
 For frontend and backend below technologies and libraries used:
 
 - React
-- Redux -(for state management)
+- Redux -(state management)
 - Next
 - MongoDB
 - Mongoose
 - Postman - 
 - Cookie
 - Reduxjs/toolkit
-- Axios -  (for making API request)
-- Paypal - (for payment)
+- Axios -  (making API request)
+- Paypal - (payment)
 - Cloudinary - (image upload)
+- Vercel - (deployment)
 - CSS
+
+## Live Demo
+```bash
+https://pizza-shop-king.vercel.app/
+```
