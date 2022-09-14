@@ -21,7 +21,7 @@ Create Own API (for add new product, update, order and receive payment)
 
 ## Technologies used
 
-For frontend and backend below software and libraries used:
+For frontend and backend below technologies and libraries used:
 
 - React
 - Redux -(for state management)
