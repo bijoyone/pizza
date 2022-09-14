@@ -39,5 +39,5 @@ For frontend and backend below technologies and libraries used:
 
 ## Live Demo
 ```bash
-https://pizza-shop-king.vercel.app/
+[https://pizza-shop-king.vercel.app/](https://pizza-shop-king.vercel.app/)
 ```
