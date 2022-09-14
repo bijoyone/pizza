@@ -44,7 +44,7 @@ const Add = ({ setClose }) => {
         img: url,
       };
 
-      await axios.post("https://vercel.com/bijoyone/pizza/DJyqgoLjHhJ98aEHU3FQbaEVQojx/api/products", newProduct);
+      await axios.post("https://pizza-shop-king.vercel.app/api/products", newProduct);
       setClose(true);
     } catch (err) {
       console.log(err);
